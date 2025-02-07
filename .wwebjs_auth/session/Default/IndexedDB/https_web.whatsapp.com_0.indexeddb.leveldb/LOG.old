@@ -1,6 +1,14 @@
-2025/02/07-18:04:00.419 7cb3 Reusing MANIFEST /media/ken/DISK/name/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2025/02/07-18:04:00.420 7cb3 Recovering log #1519
-2025/02/07-18:04:00.421 7cb3 Reusing old log /media/ken/DISK/name/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/001519.log 
-2025/02/07-18:04:00.421 7cb3 Delete type=2 #1500
-2025/02/07-18:04:00.421 7cb3 Delete type=2 #1524
-2025/02/07-18:04:00.421 7cb3 Delete type=2 #1523
+2025/02/07-18:34:12.871 1a41 Reusing MANIFEST /media/ken/DISK/name/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/02/07-18:34:12.873 1a41 Recovering log #1547
+2025/02/07-18:34:12.873 1a41 Reusing old log /media/ken/DISK/name/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/001547.log 
+2025/02/07-18:34:12.874 1a41 Delete type=2 #1543
+2025/02/07-18:34:14.086 1a77 Compacting 1@1 + 2@2 files
+2025/02/07-18:34:14.248 1a77 Generated table #1552@1: 88159 keys, 2237006 bytes
+2025/02/07-18:34:14.349 1a77 Generated table #1553@1: 32689 keys, 2027153 bytes
+2025/02/07-18:34:14.349 1a77 Compacted 1@1 + 2@2 files => 4264159 bytes
+2025/02/07-18:34:14.373 1a77 compacted to: files[ 0 1 33 0 0 0 0 ]
+2025/02/07-18:34:14.374 1a77 Delete type=2 #1546
+2025/02/07-18:34:14.374 1a77 Delete type=2 #1545
+2025/02/07-18:34:14.374 1a77 Delete type=2 #1549
+2025/02/07-18:34:14.850 1a76 Level-0 table #1555: started
+2025/02/07-18:34:14.892 1a76 Level-0 table #1555: 15737 bytes OK
