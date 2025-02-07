@@ -1,3 +1,6 @@
-2025/02/07-17:53:09.156 72f0 Reusing MANIFEST /media/ken/DISK/name/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2025/02/07-17:53:09.158 72f0 Recovering log #1473
-2025/02/07-17:53:09.175 72f0 Reusing old log /media/ken/DISK/name/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/001473.log 
+2025/02/07-18:04:00.419 7cb3 Reusing MANIFEST /media/ken/DISK/name/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/02/07-18:04:00.420 7cb3 Recovering log #1519
+2025/02/07-18:04:00.421 7cb3 Reusing old log /media/ken/DISK/name/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/001519.log 
+2025/02/07-18:04:00.421 7cb3 Delete type=2 #1500
+2025/02/07-18:04:00.421 7cb3 Delete type=2 #1524
+2025/02/07-18:04:00.421 7cb3 Delete type=2 #1523

@@ -1,31 +1,16 @@
-2025/02/07-17:52:34.951 70c2 Reusing MANIFEST /media/ken/DISK/name/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2025/02/07-17:52:34.953 70c2 Delete type=2 #1430
-2025/02/07-17:52:34.953 70c2 Delete type=2 #1436
-2025/02/07-17:52:34.953 70c2 Delete type=2 #1432
-2025/02/07-17:52:34.953 70c2 Delete type=2 #1433
-2025/02/07-17:52:34.953 70c2 Delete type=2 #1437
-2025/02/07-17:52:34.953 70c2 Delete type=2 #1431
-2025/02/07-17:52:34.953 70c2 Delete type=2 #1434
-2025/02/07-17:52:34.953 70c2 Delete type=2 #1449
-2025/02/07-17:52:34.953 70c2 Delete type=2 #1438
-2025/02/07-17:52:34.953 70c2 Delete type=2 #1435
-2025/02/07-17:52:36.254 70f5 Level-0 table #1474: started
-2025/02/07-17:52:36.296 70f5 Level-0 table #1474: 163191 bytes OK
-2025/02/07-17:52:36.324 70f5 Delete type=0 #1472
-2025/02/07-17:52:36.324 70bb Manual compaction at level-0 from '\x002\x00\x00\x00' @ 72057594037927935 : 1 .. '\x003\x00\x00\x00' @ 0 : 0; will stop at '\x002\x00\x00\x05' @ 3866674 : 1
-2025/02/07-17:52:36.324 70bb Compacting 1@0 + 1@1 files
-2025/02/07-17:52:36.372 70bb Generated table #1475@0: 5515 keys, 151526 bytes
-2025/02/07-17:52:36.414 70bb Generated table #1476@0: 1035 keys, 29260 bytes
-2025/02/07-17:52:36.414 70bb Compacted 1@0 + 1@1 files => 180786 bytes
-2025/02/07-17:52:36.441 70bb compacted to: files[ 0 2 35 0 0 0 0 ]
-2025/02/07-17:52:36.442 70bb Delete type=2 #1474
-2025/02/07-17:52:36.442 70bb Manual compaction at level-0 from '\x002\x00\x00\x05' @ 3866674 : 1 .. '\x003\x00\x00\x00' @ 0 : 0; will stop at (end)
-2025/02/07-17:52:39.633 70c2 Compacting 1@1 + 2@2 files
-2025/02/07-17:52:39.908 70c2 Generated table #1477@1: 87979 keys, 2237315 bytes
-2025/02/07-17:52:40.025 70c2 Generated table #1478@1: 30562 keys, 2078522 bytes
-2025/02/07-17:52:40.025 70c2 Compacted 1@1 + 2@2 files => 4315837 bytes
-2025/02/07-17:52:40.056 70c2 compacted to: files[ 0 1 35 0 0 0 0 ]
-2025/02/07-17:52:40.057 70c2 Delete type=2 #1475
-2025/02/07-17:52:40.057 70c2 Delete type=2 #1450
-2025/02/07-17:52:40.057 70c2 Delete type=2 #1451
-2025/02/07-17:52:40.057 70c2 Delete type=2 #1452
+2025/02/07-18:03:51.842 7bee Reusing MANIFEST /media/ken/DISK/name/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/02/07-18:03:51.843 7bee Recovering log #1496
+2025/02/07-18:03:51.875 7bee Reusing old log /media/ken/DISK/name/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/001496.log 
+2025/02/07-18:03:54.700 7be9 Level-0 table #1520: started
+2025/02/07-18:03:54.741 7be9 Level-0 table #1520: 309804 bytes OK
+2025/02/07-18:03:54.769 7be9 Delete type=0 #1496
+2025/02/07-18:03:54.770 7be9 Manual compaction at level-0 from '\x004\x00\x00\x00' @ 72057594037927935 : 1 .. '\x005\x00\x00\x00' @ 0 : 0; will stop at '\x004\x00\x00\x05' @ 3931765 : 1
+2025/02/07-18:03:54.770 7be9 Compacting 1@0 + 1@1 files
+2025/02/07-18:03:54.825 7be9 Generated table #1521@0: 9577 keys, 145301 bytes
+2025/02/07-18:03:54.860 7be9 Generated table #1522@0: 109 keys, 12752 bytes
+2025/02/07-18:03:54.860 7be9 Compacted 1@0 + 1@1 files => 158053 bytes
+2025/02/07-18:03:54.886 7be9 compacted to: files[ 0 2 33 0 0 0 0 ]
+2025/02/07-18:03:54.886 7be9 Delete type=2 #1520
+2025/02/07-18:03:54.889 7be9 Manual compaction at level-0 from '\x004\x00\x00\x05' @ 3931765 : 1 .. '\x005\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/02/07-18:03:58.571 7be9 Compacting 1@1 + 11@2 files
+2025/02/07-18:03:58.729 7be9 Generated table #1523@1: 22852 keys, 2212731 bytes
