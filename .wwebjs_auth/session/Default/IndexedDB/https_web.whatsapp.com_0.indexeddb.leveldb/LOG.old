@@ -1,16 +1,6 @@
-2025/02/07-18:03:51.842 7bee Reusing MANIFEST /media/ken/DISK/name/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2025/02/07-18:03:51.843 7bee Recovering log #1496
-2025/02/07-18:03:51.875 7bee Reusing old log /media/ken/DISK/name/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/001496.log 
-2025/02/07-18:03:54.700 7be9 Level-0 table #1520: started
-2025/02/07-18:03:54.741 7be9 Level-0 table #1520: 309804 bytes OK
-2025/02/07-18:03:54.769 7be9 Delete type=0 #1496
-2025/02/07-18:03:54.770 7be9 Manual compaction at level-0 from '\x004\x00\x00\x00' @ 72057594037927935 : 1 .. '\x005\x00\x00\x00' @ 0 : 0; will stop at '\x004\x00\x00\x05' @ 3931765 : 1
-2025/02/07-18:03:54.770 7be9 Compacting 1@0 + 1@1 files
-2025/02/07-18:03:54.825 7be9 Generated table #1521@0: 9577 keys, 145301 bytes
-2025/02/07-18:03:54.860 7be9 Generated table #1522@0: 109 keys, 12752 bytes
-2025/02/07-18:03:54.860 7be9 Compacted 1@0 + 1@1 files => 158053 bytes
-2025/02/07-18:03:54.886 7be9 compacted to: files[ 0 2 33 0 0 0 0 ]
-2025/02/07-18:03:54.886 7be9 Delete type=2 #1520
-2025/02/07-18:03:54.889 7be9 Manual compaction at level-0 from '\x004\x00\x00\x05' @ 3931765 : 1 .. '\x005\x00\x00\x00' @ 0 : 0; will stop at (end)
-2025/02/07-18:03:58.571 7be9 Compacting 1@1 + 11@2 files
-2025/02/07-18:03:58.729 7be9 Generated table #1523@1: 22852 keys, 2212731 bytes
+2025/02/07-18:04:00.419 7cb3 Reusing MANIFEST /media/ken/DISK/name/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/02/07-18:04:00.420 7cb3 Recovering log #1519
+2025/02/07-18:04:00.421 7cb3 Reusing old log /media/ken/DISK/name/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/001519.log 
+2025/02/07-18:04:00.421 7cb3 Delete type=2 #1500
+2025/02/07-18:04:00.421 7cb3 Delete type=2 #1524
+2025/02/07-18:04:00.421 7cb3 Delete type=2 #1523

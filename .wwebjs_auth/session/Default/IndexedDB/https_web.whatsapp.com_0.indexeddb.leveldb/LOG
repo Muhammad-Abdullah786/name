@@ -1,6 +1,22 @@
-2025/02/07-18:04:00.419 7cb3 Reusing MANIFEST /media/ken/DISK/name/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2025/02/07-18:04:00.420 7cb3 Recovering log #1519
-2025/02/07-18:04:00.421 7cb3 Reusing old log /media/ken/DISK/name/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/001519.log 
-2025/02/07-18:04:00.421 7cb3 Delete type=2 #1500
-2025/02/07-18:04:00.421 7cb3 Delete type=2 #1524
-2025/02/07-18:04:00.421 7cb3 Delete type=2 #1523
+2025/02/07-18:11:58.572 83b3 Reusing MANIFEST /media/ken/DISK/name/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/02/07-18:11:58.573 83b3 Recovering log #1519
+2025/02/07-18:11:58.574 83b3 Reusing old log /media/ken/DISK/name/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/001519.log 
+2025/02/07-18:11:59.638 83a1 Compacting 1@1 + 2@2 files
+2025/02/07-18:11:59.788 83a1 Generated table #1524@1: 88099 keys, 2237381 bytes
+2025/02/07-18:11:59.897 83a1 Generated table #1525@1: 32399 keys, 2021174 bytes
+2025/02/07-18:11:59.897 83a1 Compacted 1@1 + 2@2 files => 4258555 bytes
+2025/02/07-18:11:59.949 83a1 compacted to: files[ 0 1 33 0 0 0 0 ]
+2025/02/07-18:11:59.949 83a1 Delete type=2 #1502
+2025/02/07-18:11:59.949 83a1 Delete type=2 #1501
+2025/02/07-18:11:59.949 83a1 Delete type=2 #1521
+2025/02/07-18:12:00.433 83a1 Level-0 table #1527: started
+2025/02/07-18:12:00.475 83a1 Level-0 table #1527: 28021 bytes OK
+2025/02/07-18:12:00.503 83a1 Delete type=0 #1519
+2025/02/07-18:12:00.504 83a1 Manual compaction at level-0 from '\x005\x00\x00\x00' @ 72057594037927935 : 1 .. '\x006\x00\x00\x00' @ 0 : 0; will stop at '\x005\x00\x00\x05' @ 3932798 : 1
+2025/02/07-18:12:00.504 83a1 Compacting 1@0 + 1@1 files
+2025/02/07-18:12:00.542 83a1 Generated table #1528@0: 529 keys, 10252 bytes
+2025/02/07-18:12:00.584 83a1 Generated table #1529@0: 145 keys, 15504 bytes
+2025/02/07-18:12:00.584 83a1 Compacted 1@0 + 1@1 files => 25756 bytes
+2025/02/07-18:12:00.611 83a1 compacted to: files[ 0 2 33 0 0 0 0 ]
+2025/02/07-18:12:00.611 83a1 Delete type=2 #1527
+2025/02/07-18:12:00.612 83a1 Manual compaction at level-0 from '\x005\x00\x00\x05' @ 3932798 : 1 .. '\x006\x00\x00\x00' @ 0 : 0; will stop at (end)
