@@ -28,12 +28,26 @@ app.use('/comments', comments_routes);
 app.use('/admin/product', admin_products_routes);
 app.use('/admin/orders', admin_orders_routes);
 
-// Export the app for Vercel's serverless function (No app.listen)
-module.exports = app;
+// Async function for server start with try-catch for error handling
+const startServer = async () => {
+    try {
+        // Log successful startup
+        console.info(`Application started on port ${process.env.PORT}`);
 
-// For debugging in local environment, you can use this logic:
-if (process.env.NODE_ENV !== 'production') {
-    app.listen(process.env.PORT, () => {
-        console.log(`Server started on http://localhost:${process.env.PORT}`);
-    });
-}
+        // Only listen if running locally, not in serverless (Vercel)
+        if (process.env.NODE_ENV !== 'production') {
+            app.listen(process.env.PORT, () => {
+                console.log(`Server started on http://localhost:${process.env.PORT}`);
+            });
+        }
+    } catch (error) {
+        console.error(`Error starting server:`, { meta: error });
+        process.exit(1); // Exit the process with an error code
+    }
+};
+
+// Call the startServer function
+startServer();
+
+// Export the app for Vercel's serverless function
+module.exports = app;
