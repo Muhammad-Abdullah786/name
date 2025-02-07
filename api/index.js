@@ -1,14 +1,14 @@
 require('dotenv').config();
-require('./connection/conection');
+require('../src/connection/conection');
 const cors = require('cors');
 const express = require('express');
 const app = express();
-const user_routes = require('./user/routes');
-const product_routes = require('./client/products/routes');
-const order_routes = require('./client/orders/routes');
-const comments_routes = require('./client/comments/route');
-const admin_products_routes = require('./admin/products/routes');
-const admin_orders_routes = require('./admin/orders/routes');
+const user_routes = require('../src/user/routes');
+const product_routes = require('../src/client/products/routes');
+const order_routes = require('../src/client/orders/routes');
+const comments_routes = require('../src/client/comments/route');
+const admin_products_routes = require('../src/admin/products/routes');
+const admin_orders_routes = require('../src/admin/orders/routes');
 // Enable CORS for all routes
 app.use(cors());
 app.use(express.json());
